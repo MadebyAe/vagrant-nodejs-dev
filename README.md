@@ -1,6 +1,6 @@
 # vagrant-nodejs-dev
 
-An ansible-based vagrant environment for kick-starting server-side nodejs application development with MongoDB, Redis and Nginx.
+An ansible-based vagrant environment for kick-starting server-side nodejs application development with MongoDB and Nginx.
 
 ## Usage
 
