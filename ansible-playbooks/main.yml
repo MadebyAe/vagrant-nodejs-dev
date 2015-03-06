@@ -8,7 +8,6 @@
     - role: ansible-nginx
     - role: ansible-softwares
     - role: ansible-mongodb
-    - role: DavidWittman.redis
     - role: ansible-nodejs
     - role: ansible-nodejs-apps
       # apps:
