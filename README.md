@@ -22,6 +22,7 @@ The ansible-nodejs-apps role will help you to fire your nodejs applications as y
 
 1. A package.json file that should be located at the root of the app repo.
 2. A server.js file
+3. Ansible 1.4+
 
 Then you have two different ways to get your app(s) running on the virtual machine to choose from.
 
