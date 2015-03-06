@@ -7,7 +7,6 @@ An ansible-based vagrant environment for kick-starting server-side nodejs applic
 ```
 git clone https://github.com/theasta/vagrant-nodejs-dev.git
 cd vagrant-nodejs-dev
-ansible-galaxy install DavidWittman.redis
 vagrant up
 ```
 
